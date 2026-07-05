@@ -1,4 +1,4 @@
-# Sales Forecasting using Superstore Dataset
+# Sales Analysis
 
 ## Project Overview
 This project analyzes Superstore sales data to identify sales trends, top-performing states, category-wise sales distribution, and the relationship between sales, profit, quantity, and discount using Python.
